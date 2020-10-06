@@ -1,0 +1,7 @@
+C:\Users\56984\Desktop\gif's\tarea de poo\excepcion personalizada\excepcion personalizada\bin\Debug\excepcion personalizada.exe.config
+C:\Users\56984\Desktop\gif's\tarea de poo\excepcion personalizada\excepcion personalizada\bin\Debug\excepcion personalizada.exe
+C:\Users\56984\Desktop\gif's\tarea de poo\excepcion personalizada\excepcion personalizada\bin\Debug\excepcion personalizada.pdb
+C:\Users\56984\Desktop\gif's\tarea de poo\excepcion personalizada\excepcion personalizada\obj\Debug\excepcion personalizada.csprojAssemblyReference.cache
+C:\Users\56984\Desktop\gif's\tarea de poo\excepcion personalizada\excepcion personalizada\obj\Debug\excepcion personalizada.csproj.CoreCompileInputs.cache
+C:\Users\56984\Desktop\gif's\tarea de poo\excepcion personalizada\excepcion personalizada\obj\Debug\excepcion personalizada.exe
+C:\Users\56984\Desktop\gif's\tarea de poo\excepcion personalizada\excepcion personalizada\obj\Debug\excepcion personalizada.pdb
